@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+ slide!"
 ---
 This is github Test
 Use the left arrow to go back!
